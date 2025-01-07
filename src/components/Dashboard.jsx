@@ -6,7 +6,7 @@ import { useDispatch } from "react-redux";
 import { updatestocks } from "../store/authSlice";
 import 'react-loading-skeleton/dist/skeleton.css';
 import Skeleton from "react-loading-skeleton";
-import Stock from "./index";
+import {Stock} from "./index";
 import logo from "../assets/stock.png";
 
 const DashBoard=()=>{

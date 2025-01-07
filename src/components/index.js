@@ -8,6 +8,7 @@ import Signup from "./Signup"
 import AddStock from "./AddStock"
 import SellStock from "./SellStock"
 import DashBoard from "./Dashboard"
+import Stock from "./Stock"
 export{
     Header,
     Footer,
@@ -18,6 +19,7 @@ export{
     Signup,
     AddStock,
     SellStock,
-    DashBoard
+    DashBoard,
+    Stock,
 
 }
